@@ -1,0 +1,24 @@
+{
+  "name": "任务清单",
+  "short_name": "任务清单",
+  "description": "一款优雅的任务管理与备忘录应用",
+  "start_url": "./工作清单PWA.html",
+  "display": "standalone",
+  "background_color": "#fde8f5",
+  "theme_color": "#c8a0f0",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
